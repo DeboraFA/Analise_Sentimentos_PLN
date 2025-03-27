@@ -1,8 +1,8 @@
-📊 **Análise de Sentimentos**
+# 📊 **Análise de Sentimentos**
 
 Este projeto realiza uma análise de sentimentos em textos, aplicando técnicas de Processamento de Linguagem Natural (PLN). O notebook abrange desde a transformação de textos em dados numéricos até a visualização das palavras mais frequentes e uso de n-grams.
 
-🚀 **Tecnologias Utilizadas**
+### 🚀 **Tecnologias Utilizadas**
 
 Python 🐍
 
@@ -16,7 +16,7 @@ Seaborn 🎨
 
 NLTK / spaCy 📝
 
-📌 **Funcionalidades**
+### 📌 **Funcionalidades**
 
 - Pré-processamento de texto: remoção de stopwords, stemização e lematização.
 
@@ -28,11 +28,11 @@ NLTK / spaCy 📝
 
 - Treinamento de um modelo de classificação para prever sentimentos.
 
-📦 **Instalação**
+### 📦 **Instalação**
 
 Clone o repositório e instale as dependências:
 ```bash
-git clone git@github.com:DeboraFA/Analise_Sentimentos_PLN.git
+git clone https://github.com/DeboraFA/Analise_Sentimentos_PLN.git
 cd Analise_Sentimentos_PLN
 pip install -r requirements.txt
 ```
