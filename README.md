@@ -2,6 +2,8 @@
 
 Este projeto realiza uma análise de sentimentos em textos, aplicando técnicas de Processamento de Linguagem Natural (PLN). O notebook abrange desde a transformação de textos em dados numéricos até a visualização das palavras mais frequentes e uso de n-grams.
 
+Baseado em: https://www.youtube.com/watch?v=Wq-n7ZPce8k e https://www.alura.com.br/curso-online-nlp-aplicando-processamento-linguagem-natural-analise-sentimentos
+
 ### 🚀 **Tecnologias Utilizadas**
 
 Python 🐍
