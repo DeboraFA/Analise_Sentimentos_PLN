@@ -32,8 +32,8 @@ NLTK / spaCy 📝
 
 Clone o repositório e instale as dependências:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone git@github.com:DeboraFA/Analise_Sentimentos_PLN.git
+cd Analise_Sentimentos_PLN
 pip install -r requirements.txt
 ```
 
