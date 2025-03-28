@@ -41,6 +41,8 @@ pip install -r requirements.txt
 
 🔧 Como Usar
 
+Extraia os dados **IMDB-Dataset** do arquivo zip
+
 Abra e execute o notebook Jupyter:
 ```bash
 jupyter notebook Analise_de_sentimentos.ipynb
